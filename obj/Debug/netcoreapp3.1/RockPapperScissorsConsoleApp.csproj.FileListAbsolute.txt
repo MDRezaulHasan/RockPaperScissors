@@ -1,0 +1,13 @@
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.exe
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.deps.json
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.runtimeconfig.json
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.runtimeconfig.dev.json
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.dll
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\bin\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.pdb
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.csprojAssemblyReference.cache
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.AssemblyInfo.cs
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.dll
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.pdb
+C:\Users\rezau\source\repos\RockPapperScissorsConsoleApp\obj\Debug\netcoreapp3.1\RockPapperScissorsConsoleApp.genruntimeconfig.cache
